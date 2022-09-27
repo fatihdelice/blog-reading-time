@@ -1,0 +1,34 @@
+{
+  "name": "blog-reading-time",
+  "version": "1.0.1",
+  "description": "Blog reading time estimation.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx babel src --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatihdelice/blog-reading-time.git"
+  },
+  "keywords": [
+    "read",
+    "time",
+    "read time",
+    "reading time",
+    "blog",
+    "react",
+    "words per minute"
+  ],
+  "author": "fatihdelice",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fatihdelice/blog-reading-time/issues"
+  },
+  "homepage": "https://github.com/fatihdelice/blog-reading-time#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.19.1",
+    "@babel/preset-env": "^7.19.1",
+    "@babel/preset-react": "^7.18.6"
+  }
+}
