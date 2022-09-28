@@ -1,6 +1,8 @@
 # blog-reading-time
 [![Version](http://img.shields.io/npm/v/blog-reading-time.svg)](https://www.npmjs.org/package/blog-reading-time)
 ![npm](https://img.shields.io/npm/dw/blog-reading-time)
+![NPM](https://img.shields.io/npm/l/blog-reading-time)
+
 <br>
 
 Blog reading time estimation.
