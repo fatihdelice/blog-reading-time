@@ -1,6 +1,6 @@
 # blog-reading-time
 [![Version](http://img.shields.io/npm/v/blog-reading-time.svg)](https://www.npmjs.org/package/blog-reading-time)
-<p align="left">
+<p>
         <img alt="ViewCount" height="20" src="https://views.whatilearened.today/views/github/tepeumut/tepeumut.svg" />
 </p>
 <br>
